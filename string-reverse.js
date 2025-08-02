@@ -11,7 +11,7 @@ for (const letter of sentence) {
     reverse = letter + reverse;
 }
 
-// console.log (reverse);
+console.log (reverse);
 
 
 // plain for loop
@@ -23,7 +23,7 @@ for (let i = 0; i < sentence.length; i ++) {
     reve = sentence[i] + reve;   // declare without variable
 }
 
-// console.log (reve);
+console.log (reve);
 
 // while Loop
 
@@ -33,7 +33,7 @@ while (i < sentence.length) {
      rev = sentence[i] + rev;
      i++
 }
-// console.log (rev);
+console.log (rev);
 
 // Shortcut using Reverse
 
